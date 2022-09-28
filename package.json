@@ -2,6 +2,7 @@
   "name": "LMS-INTERVENTIONS",
   "version": "0.1.2",
   "homepage": "https://precious123-gifted.github.io/LMS/",
+  "private": true,
   "dependencies": {
     "gh-pages": "^4.0.0",
     "gsap": "^3.11.2",
