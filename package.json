@@ -4,7 +4,6 @@
   "homepage": "https://precious123-gifted.github.io/LMS-INTERVENTIONS/",
   "private": true,
   "dependencies": {
-    "gh-pages": "^4.0.0",
     "gsap": "^3.11.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -23,13 +22,14 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build"
   },
   "devDependencies": {
-    "typescript": "latest",
-    "react-refresh": "0.10.0"
+    "gh-pages": "^4.0.0",
+    "react-refresh": "0.10.0",
+    "typescript": "latest"
   },
   "browserslist": {
     "production": [
