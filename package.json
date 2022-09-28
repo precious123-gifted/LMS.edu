@@ -1,7 +1,7 @@
 {
   "name": "LMS-INTERVENTIONS",
   "version": "0.1.2",
-  "homepage": "https://precious123-gifted.github.io/LMS/",
+  "homepage": "https://precious123-gifted.github.io/LMS-INTERVENTIONS/",
   "private": true,
   "dependencies": {
     "gh-pages": "^4.0.0",
