@@ -1,7 +1,7 @@
 {
   "name": "LMS-INTERVENTIONS",
   "version": "0.1.2",
-  "homepage": "https://precious123-gifted.github.io/LMS-INTERVENTIONS/",
+  "homepage": "https://precious123-gifted.github.io/LMS.edu/",
   "private": true,
   "dependencies": {
     "gsap": "^3.11.2",
@@ -22,7 +22,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -b master -d build",
     "start": "react-scripts start",
     "build": "react-scripts build"
   },
