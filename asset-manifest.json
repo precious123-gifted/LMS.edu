@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/LMS.edu/static/css/main.8709d1f7.css",
-    "main.js": "/LMS.edu/static/js/main.b3373dbe.js",
+    "main.js": "/LMS.edu/static/js/main.7970c958.js",
     "static/js/787.da4601f9.chunk.js": "/LMS.edu/static/js/787.da4601f9.chunk.js",
     "static/media/bg4.png": "/LMS.edu/static/media/bg4.e927259f1724a6ddeaab.png",
     "static/media/landingpage.png": "/LMS.edu/static/media/landingpage.97157df14fd92643d3da.png",
@@ -16,14 +16,15 @@
     "static/media/videolib.png": "/LMS.edu/static/media/videolib.7ab0f1d00527d3ba5fcb.png",
     "static/media/learningplan.png": "/LMS.edu/static/media/learningplan.1c4d15d0bdb68adf865c.png",
     "static/media/homework.png": "/LMS.edu/static/media/homework.4e1d1dd7e20b55d28535.png",
+    "static/media/header-ill1.png": "/LMS.edu/static/media/header-ill1.a57e2f3b1ae88ea31d5e.png",
     "static/media/livelessons.png": "/LMS.edu/static/media/livelessons.2e09b0837c0561bfe9be.png",
     "index.html": "/LMS.edu/index.html",
     "main.8709d1f7.css.map": "/LMS.edu/static/css/main.8709d1f7.css.map",
-    "main.b3373dbe.js.map": "/LMS.edu/static/js/main.b3373dbe.js.map",
+    "main.7970c958.js.map": "/LMS.edu/static/js/main.7970c958.js.map",
     "787.da4601f9.chunk.js.map": "/LMS.edu/static/js/787.da4601f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8709d1f7.css",
-    "static/js/main.b3373dbe.js"
+    "static/js/main.7970c958.js"
   ]
 }
