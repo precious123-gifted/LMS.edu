@@ -1,10 +1,15 @@
 {
   "files": {
     "main.css": "/LMS.edu/static/css/main.8709d1f7.css",
-    "main.js": "/LMS.edu/static/js/main.681824ab.js",
+    "main.js": "/LMS.edu/static/js/main.c9a5dfee.js",
     "static/js/787.da4601f9.chunk.js": "/LMS.edu/static/js/787.da4601f9.chunk.js",
+    "static/media/girlNsky.jpg": "/LMS.edu/static/media/girlNsky.f580f2bb576abd4396c2.jpg",
+    "static/media/KWHLAQ.jpg": "/LMS.edu/static/media/KWHLAQ.49780f5f8d3dda5dccf9.jpg",
+    "static/media/educated.jpg": "/LMS.edu/static/media/educated.a5a88fa647e85d3b57bf.jpg",
     "static/media/bg4.png": "/LMS.edu/static/media/bg4.e927259f1724a6ddeaab.png",
+    "static/media/humbleleader.jpg": "/LMS.edu/static/media/humbleleader.a0416ea159c2a4dbc229.jpg",
     "static/media/landingpage.png": "/LMS.edu/static/media/landingpage.97157df14fd92643d3da.png",
+    "static/media/learning.jpg": "/LMS.edu/static/media/learning.b7610a00fbcd1a10342d.jpg",
     "static/media/header-bg.png": "/LMS.edu/static/media/header-bg.20676a3b69f84ba0b45f.png",
     "static/media/bg3.png": "/LMS.edu/static/media/bg3.fcacc92824491d5bc61e.png",
     "static/media/bg5.png": "/LMS.edu/static/media/bg5.046e1c852739ba8cb933.png",
@@ -22,11 +27,11 @@
     "static/media/logo.png": "/LMS.edu/static/media/logo.d6f87439c3fa94fbb897.png",
     "index.html": "/LMS.edu/index.html",
     "main.8709d1f7.css.map": "/LMS.edu/static/css/main.8709d1f7.css.map",
-    "main.681824ab.js.map": "/LMS.edu/static/js/main.681824ab.js.map",
+    "main.c9a5dfee.js.map": "/LMS.edu/static/js/main.c9a5dfee.js.map",
     "787.da4601f9.chunk.js.map": "/LMS.edu/static/js/787.da4601f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8709d1f7.css",
-    "static/js/main.681824ab.js"
+    "static/js/main.c9a5dfee.js"
   ]
 }
